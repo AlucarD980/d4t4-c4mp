@@ -5,6 +5,7 @@ areas = [11.25, 18.0, 20.0, 10.75, 9.50]
 for i in areas:
     print(i)
 
+#for i in range (1-10):
 
 # areas list
 areas = [11.25, 18.0, 20.0, 10.75, 9.50]
